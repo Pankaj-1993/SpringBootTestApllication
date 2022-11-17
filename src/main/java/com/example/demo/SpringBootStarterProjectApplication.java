@@ -8,6 +8,7 @@ public class SpringBootStarterProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootStarterProjectApplication.class, args);
+		int a=10;
 	}
 
 }
